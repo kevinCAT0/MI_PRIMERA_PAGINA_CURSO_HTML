@@ -1,0 +1,482 @@
+<h1> <span> Acerca de mi </span> </h1>
+  <p> 
+  ¡Hola! Soy <strong> Kevin </strong>. La codificacion ha cambiado mi mundo ...
+  </p>
+  <p class = "quote"> "Declarar variables, no guerra"
+      </p>
+<p> Soy un parrafo </p>
+<p> Estoy aprendiendo HTML en SoloLearn! </p>
+
+<html>
+...
+</html>
+
+<html>
+ 
+   <head> </head>
+ </html>
+
+ <html>
+   <head> 
+   </head>
+   <body>
+   </body>
+ </html>
+
+ <html>
+    <head> 
+    </head>
+    <body>
+        Esta es una linea de texto
+    </body>
+  </html>
+  <html>
+    <head>
+        <title>primera pagina</title>
+    </head>
+    <body>
+        <p>Este es texto normal </p>
+        <p> <b>texto en negrita </b> </p>
+        <p> <big> texto grande </big> </p>
+        <p> <i> texto en cursiva <i> </p>
+        <p> <small> texto en cursiva </small>> </p>
+        <p> <strong> texto fuerte </strong> </p>
+        <p> <sub> texto con subindice </sub>> </p>
+        <p> <sup> texto con superindice </sup> </p>
+        <p> <ins> texto insertado </ins>> </p>
+        <p> <del> texto eliminado </del>> </p>
+    </body>
+</html>
+
+<html>
+    <head>
+        <title>primera pagina</title>
+    </head>
+    <body>
+       <h1> Este es el encabezado 1 </h1>
+       <h2> Este es el encabezado 2 </h2>
+       <h3> Este es el encabezado 3 </h3>
+       <h4> Este es titulo 4 </h4>
+       <h5> Este es titulo 5 </h5>
+       <h6> Este es titulo 6 </h6>
+       <p> Este es un parrafo </p>
+       <hr />
+       <p> Este es un parrafo </p>
+    </body>
+</html>
+
+<html>
+    <head>
+        <title>primera pagina</title>
+    </head>
+    <body>
+    <p> Este es un parrafo </p>
+    <hr />
+    <p> Este es un parrafo 
+
+    </p>
+    <!--Este es un comentario --> 
+    </body>
+
+    </html>
+<html>
+    <head>
+        <title>primera pagina</title>
+    </head>
+    <body>
+    <p> Este es un parrafo <br /> </p>
+    </body>
+    </html>
+
+<html>
+    <head>
+        <title>primera pagina</title>
+    </head>
+    <body>
+    <p> Este es un parrafo </p>
+    <p> Este es un <br /> salto de linea </p>
+    </body>
+    </html>
+
+    <p align ="center">
+        Este texto esta alineado al centro
+    </p>
+
+    <hr width= "50" />
+    <hr width= "50" % />
+    
+    <html>
+    <head>
+        <title>atributos</title>
+    </head>
+    <body>
+    <p = "Center"> este es un texto <br />
+     
+    <hr width = "10%" = "right" /> Esto tambien es un texto
+    </p>
+    </body>
+    </html> Alinear alinear
+    <p align = "center">
+        Este es un texto.
+        <hr width = 50% align = "left" />
+    </p>
+
+    <img src="image.jpg" />
+
+    <html>
+    <head>
+        <title>primera pagina</title>
+    </head>
+    <body> <img src = "tree.jpg" alt = "" />
+    </body></html>
+
+    <html>
+        <head>
+            <title>primera pagina</title>
+        </head>
+        <body>
+         <img src = "tree.jpg" height = "150 px " width =
+         "150 px " alt = "" />
+            <!-- or -->
+        <img src = "tree.jpg" height = "50 % " width =
+         "50 % " alt = "" />
+        </body>
+        </html>
+
+        <img src= "tree.jpg" height="150px" width =
+        "150px" border " 1px " alt = "" />
+
+        <a href =""> </a>
+
+        <a href ="http://www.sololearn.com"> Aprende a jugar
+        </a>
+
+        <a targeta="_blank" href="http://www.sololearn.com">Aprende a jugar
+        </a>
+
+        <html>
+            <title> primera pagina </title>   
+        </head>
+        <body>
+            <ol>
+              <li> Rojo </li>
+              <li> Azul </li>
+              <li> Verde </li>
+            </ol>
+        </body>
+        </html>
+        
+        <html>
+            <title> primera pagina </title>   
+        </head>
+        <body>
+            <ul>
+              <li> Rojo </li>
+              <li> Azul </li>
+              <li> Verde </li>
+            </ul>
+        </body>
+        </html>
+
+        <h1> <span> Mis habilidades </span> </h1>
+        <ul>
+            <li> HTML </li>
+            <li> CSS </li> 
+            <li> JavaScript </li>   
+            </ul>      
+
+            <table>
+                <tr>
+                   <td></td>
+                   <td></td>
+                   <td></td>
+                </tr>
+             </table>
+
+             <table border="2">
+                <tr>
+                   <td>Rojo</td>
+                   <td>Azul</td>
+                   <td>Verde</td>
+                </tr>
+             <tr>
+                <td><br /></td>
+                <td colspan = "2" ><br /></td>
+                </tr>
+                </table>
+
+                
+                <table border="2">
+                    <tr>
+                       <td>Rojo</td>
+                       <td>Azul</td>
+                       <td>Verde</td>
+                    </tr>
+                 <tr>
+                    <td> </td>
+                    <td colspan = "2"> </td>
+                    </tr></table>Amarillo anaranjado
+
+
+ <html>
+    <head>
+        <title>primera página</title>
+    </head>
+    <body> 
+        <table border="2">
+        <tr>
+            <td bgcolor="red">Red</td>
+            <td>Blue</td>
+            <td>Green</td>
+        </tr>
+        <tr>
+            <td>Yellow</td>
+            <td colspan="2">Orange</td>
+        </tr>
+        </table>
+    </body>
+</html>
+
+<html>
+    <body>
+        <h1>Titulo</h1> <div style="background-color: green; color: write;
+                padding: 20px;"><p>Aqui va parte del texto del parrafo</p>
+                <p>Otro parrafo va aqui</p></div>
+    </body>
+</html>
+
+<html>
+    <body>
+        <h2>Algunos <span style="color: red;">Importante</span>
+        Mensaje</h2>
+    </body>
+</html>
+
+<html>
+    <body>
+        <form>
+        <input type="text" name="username"></br>
+        <input type="password" name="password">
+        </form>
+    </body>
+</html>
+
+<html>
+    <body>
+        <form>
+        <input type="radio" name="gender" value="male"/>Male</br>
+        <input type="radio" name="gender" value="female"/>Female</br>
+        </form>
+    </body>
+</html>
+
+<html>
+    <body>
+        <form>
+        <input type="checkbox" name="gender" value="1"/>Male</br>
+        <input type="checkbox" name="gender" value="2"/>Female</br>
+        </form>
+    </body>
+</html>
+
+<html>
+    <body>
+        <form>
+        <input type="submit" value="submit"/>
+        </form>
+    </body>
+</html>
+
+<html>
+    <body>
+        <h1><span>Contáctame</span></h1>
+        <form>
+        <input name="name" type="text"/></br>
+        <input name="email" value="email"/></br>
+        <textarea name="message"></textarea>
+        <input type="submit" value="SEND" class="submit"/>
+        </form>
+    </body>
+</html>
+
+<html>
+    <head>
+        <title>Primera pagina</title>
+    </head>
+    <body bgcolor="#000099">
+        <h1>
+        <font color ="#FFFFFF">Título blanco</font>
+        </h1>
+    </body>
+</html>
+
+<html>
+    <body>
+        <div class="section">
+         <h1><span>Mis medios</span></h1>
+         <iframe height="150" width="300" src="https://www.youtube.com/embed/Q6_5InVJZ88"
+         allowfullscreen frameborder= "0"></iframe>
+        </div>
+    </body>
+</html>
+
+
+<! DOCTYPE html>
+<html>
+    <head> </html>
+        <body>
+            <header>
+            <h1> Encabezado mas importante </h1>
+            <h3> Encabezado menos importante </h3>
+            </header>
+            <body>
+            </html>
+
+            <footer> </footer>
+
+<nav>
+    <ul>
+        <li> <a href="#">Inicio </a> </li>
+        <li> <a href="#">Servicio</a> </li>
+        <li> <a href = "#"> Acerca de nosotros </a>
+</li>
+</ul>
+</nav>
+    
+<article>
+    <h1> El titulo del articulo </h1>
+    <p> Contenido del elemento del articulo </p>
+</article>
+
+<article>
+    <h1> Bienvenido </h1>
+    <section>
+        <h1> Encabezado </h1>
+        <p> Contenido o imagen </p>
+     <section>
+</article>
+
+<article>
+    <h1> Regalos para todos </h1>
+        <p> Este sitio web sera el mejor lugar para elegir regalos </p>
+    <aside>
+        <p> Los regalos le seran entregados dentro de las 24 horas </p>
+    </aparte>
+    </article>
+
+</body>
+
+<audio src="audio.mp3" controls>
+    Elemento de audio no compatible con su navegador
+</audio>
+
+<article>
+    <h1> Forma dos</h1>
+
+</article>
+<audio controls>
+    <source src= "audio.mp3" type= "audio / mpeg">
+    <source src= "audio.ogg" type= "audio / ogg">
+    </audio>
+
+<audio controls>
+    <source src= "audio.mp3" type= "audio / mpeg">
+    <source src= "audio.ogg" type= "audio / ogg">
+    Audio element not suport by you browser
+</audio>
+
+<audio controls autoplay>
+
+<audio controls autoplay loop>
+
+    <article>
+        <h1> video</h1>
+    </article>
+
+
+<video controls> 
+    <source src="video.mp4" type="video/mp4">
+    <source src= "video.ogg" type="video/ogg">
+    El video no es compatible con su navegador
+</video>
+
+<video controls autoplay loop> 
+    <source src="video.mp4" type="video/mp4">
+    <source src= "video.ogg" type="video/ogg">
+    El video no es compatible con su navegador
+</video>
+
+Status: <progress min "0" max "100" values="35"
+</progress>
+
+<svg width="2000" height="2000">
+    <circle cx="80" cy="80" r="50" fill="green"/>
+</svg>
+
+<svg width="2000" height="2000">
+    <width ="300" height="100" x="20" y="20" fill="green"/>
+</svg>rect
+
+<svg height="500" width="1000">
+    <ellipse cx="200" cy="100" rx="150" ry="70" style="fill: green"/>
+</svg>
+
+<svg width="2000" height="2000">
+    <polygon points="100 100, 200 200,300 0" 
+    style="fill: green; stroke: black;"/>
+</svg>
+
+<svg width="1000" height="250">
+    <rect width="150" height="150" fill="orange">
+    <animate attributeName="x" from="0" to="300"
+    dur="3s" fill="freeze" repeatCount="2"/>
+    </rect> 
+</svg>
+
+<svg width="500" height="500">
+    <path d="M 0 0 L200 200 L200 0 Z" style="stroke: #000;
+    fill: none;"/>
+</svg>
+
+<form>
+    <label>Su nombre</label>
+    <input id="user" name="username" type="text"/>
+</form>
+
+<form>
+    <label for="email">Your e-mail address:</label>
+    <input type="text" name="email" placeholder="email@example.com"/>
+</form>
+
+<form>
+    <label for="email">Your e-mail address:</label>
+    <input type="text" name="email" autofocus/>
+</form>
+
+<form autocomplete="off">
+    <label for="email">Your e-mail address:</label>
+    <input name="Email" type="text" required/>
+    <input type="submit" value="Submit">
+</form>
+
+<form autocomplete="off">
+    <input id="mysearch" name="searchitem" type="search"/>
+</form>
+
+<form>
+    <input id="car" type="text" list="colors"/>
+    <datalist id="colors">
+     <option value="Red">
+     <option value="Green">
+     <option value="Yellow">
+    </datalist>
+</form>
+
+<input id="email" name="email" type="email" 
+placeholder="example@example.com"/><br/>
+<input id="url" name="url" type="url" 
+placeholder="example.com"/><br/>
+<input id="tel" name="tel" type="tel" 
+placeholder="555.555.1211"/>
+
+
